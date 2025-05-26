@@ -1,6 +1,29 @@
-# 🛠️ &nbsp Bienvenido a mi repositorio de Quality Assurence (QA) Engineer. &nbsp
+# 👋 ¡Hola! Soy KEVIN VEGA - QA Tester Junior
 
-Aquí encontrarás una descripción sobre los poyectos que he trabajo.
+Aquí encontrarás ejemplos de mi trabajo, buenas prácticas en control de calidad de software y algunos proyectos donde demuestro mis habilidades como profesional en formación continua.
+
+---
+
+## 🧪 ¿Quién soy?
+
+Soy un tester junior apasionado por la calidad del software, la mejora continua y el trabajo en equipo. Me especializo en detectar errores, mejorar procesos y asegurar que las aplicaciones funcionen correctamente antes de llegar al usuario final.  
+Tengo conocimientos en pruebas manuales y básicos en pruebas automatizadas, metodologías ágiles, y siempre estoy en constante aprendizaje para crecer como profesional.
+
+---
+
+## ⚙️ Habilidades Técnicas
+
+- **Pruebas Manuales**: funcionales, regresión, exploratorias.
+- **Herramientas**: Jira,Android Studio, Postman, Selenium, Git.
+- **Automatización**: conocimientos básicos en Python con Selenium.
+- **Pruebas API**: uso de Postman para validar endpoints REST.
+- **Control de versiones**: Git y GitHub.
+- **Metodologías**: Scrum.
+
+---
+
+## 📁 ¿Qué encontrarás en este repositorio?
+Una lista de los proytectos en los que he trabajado y una descripción de cada uno de ellos:
 
 ## 🚀 Proyecto #1. Urban Routes.
 
