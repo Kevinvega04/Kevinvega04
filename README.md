@@ -6,15 +6,14 @@ Aquí encontrarás ejemplos de mi trabajo, buenas prácticas en control de calid
 
 ## 🧪 ¿Quién soy?
 
-Soy un tester junior apasionado por la calidad del software, la mejora continua y el trabajo en equipo. Me especializo en detectar errores, mejorar procesos y asegurar que las aplicaciones funcionen correctamente antes de llegar al usuario final.  
-Tengo conocimientos en pruebas manuales y básicos en pruebas automatizadas, metodologías ágiles, y siempre estoy en constante aprendizaje para crecer como profesional.
+Profesional Ingeniero Civil, preparado para dar el salto al sector tecnológico aprovechando mi experiencia en análisis, control de calidad y resolución de problemas. He supervisado obras, verificado planos, dirigido personal y validados documentos finales, habilidades que ahora aplico como Quality Assurance (QA) Manual. Me estoy formando en herramientas como Jira, Postman, APIs, JSON y SQL. También aprendo a crear casos de prueba web/móvil y reportar errores. Mi objetivo es aportar al desarrollo de productos digitales funcionales y de calidad.
 
 ---
 
 ## ⚙️ Habilidades Técnicas
 
 - **Pruebas Manuales**: funcionales, regresión, exploratorias.
-- **Herramientas**: Jira,Android Studio, Postman, Selenium, Git.
+- **Herramientas**: Jira, Android Studio, Postman, Selenium, Git.
 - **Automatización**: conocimientos básicos en Python con Selenium.
 - **Pruebas API**: uso de Postman para validar endpoints REST.
 - **Control de versiones**: Git y GitHub.
@@ -27,16 +26,19 @@ Una lista de los proytectos en los que he trabajado y una descripción de cada u
 
 ## 🚀 Proyecto #1. Urban Routes.
 
-
 ### 1. 📝 Pruebas de Software (Manual)
    - **Descripción:** Realizcé pruebas de software manuales para asegurar la calidad y el correcto funcionamiento de la aplicación web en diferentes navegadores, identificando errores plasmandolos en Jira y mejorando la experiencia del usuario final, estudiando la documentación de prueba para el diseño en Figma y documentando los resultados obtenidos clasificándolos según severidad.
      
    - **Palabras Claves**
       Pruebas de humo, Pruebas de regresión, Pruebas funcionales, Clases de equvalencia, Casos de Prueba, Informe de erroes.
+     
+## 🚀 Proyecto #2. Urban.Grocers.
 
 ### 2. 🔍 Validación de APIs (Postman)
-   - **Descripción:** Urban Routes es un software creado para asistir a los usuarios en la organización eficaz de sus viajes. Facilita la creación de rutas y el cálculo del tiempo y el gasto del viaje basándose en diversos medios de transporte, tales como autobús, metro, bicicleta o vehículo. Para asegurar la excelencia del software y potenciar la experiencia del usuario, se llevaron a cabo evaluaciones manuales para confirmar funciones recientes y identificar bugs.
+   - **Descripción:** Urban.Grocers, es un software creadopara la creación de kits para productos, asignandolos a una CardID del usuario, Analicé los requisitos para la nueva funcionalidad del back-end de Urban.Grocers, Diseñé pruebas en una lista de comprobación,Probé la API a través de Postman y realicé los informes de errores a Jira para la documentación final.
 
+   - **Palabras Claves**
+      Postman, Lista de comprobación, Pruebas funcionales back-end, Clases de equvalencia, APIs, Casos de Prueba, Informe de erroes, Jira.
 
 ### 3. 📱 Testing en Aplicaciones Móviles
    - **Descripción:** Llevo a cabo pruebas detalladas en aplicaciones móviles en entornos Android (Android Studio) para evaluar funcionalidad, rendimiento y diseño adaptativo, asegurando una experiencia de usuario óptima en dispositivos móviles.
@@ -68,24 +70,22 @@ Una lista de los proytectos en los que he trabajado y una descripción de cada u
 
 ### 10. 💡 Consultoría en Mejora Continua de Calidad de Software
    - **Descripción:** Ofrezco recomendaciones personalizadas para optimizar los procesos de testing y promover la mejora continua en la calidad del software, con el objetivo de hacer más eficiente el flujo de trabajo y garantizar un alto nivel de calidad en los productos.
-   
 
-## 📞 Contacto
 
-Si estás interesado en colaborar o aprender más sobre mis servicios, no dudes en contactarme:
+## 💼 ¿Por qué contratarme?
 
-- **LinkedIn:** https://www.linkedin.com/in/mariana-garcía-díaz-1bb0b1335
-- **Email:** marianagarciadia@gmail.com
+- Estoy comprometido con la calidad, el detalle y la mejora constante.
+- Aprendo rápido y me adapto fácilmente a nuevas herramientas y metodologías.
+- Trabajo bien en equipo y me comunico con claridad.
+- Mi objetivo es crecer en una empresa que valore la calidad del software tanto como yo.
 
 ---
 
-¡Gracias por visitar mi repositorio! 🚀
-Descripción: Verifico la compatibilidad y el diseño responsivo de aplicaciones web y móviles en Múltiples plataformas, navegadores y dispositivos, garantizando que los usuarios disfruten de una experiencia de calidad en cualquier entorno.
-10. 💡 Consultoría en Mejora Continua de Calidad de Software
-Descripción: Ofrezco recomendaciones personalizadas para optimizar los procesos de testing y promover la mejora continua en la calidad del software, con el objetivo de hacer más eficiente el flujo de trabajo y garantizar un alto nivel de calidad en los productos.
-📞 Contacto
-Si estás interesado en colaborar o aprender más sobre mis servicios, no dudes en contactarme:
+## 📫 ¡Conectemos!
 
-LinkedIn: https://www.linkedin.com/in/mariana-garcía-díaz-1bb0b1335
-Correo electrónico: marianagarciadia@gmail.com
-¡Gracias por visitar mi repositorio! 🚀
+- 📧 qaenigneer.kevinvega@gmail.com 
+- 💼 (https://www.linkedin.com/in/kevin-jes%C3%BAs-vega-d%C3%ADaz)
+  
+---
+
+> “El mejor software no es el que tiene más funciones, sino el que funciona correctamente.”
