@@ -56,7 +56,6 @@ Una lista de los proytectos en los que he trabajado y una descripción de cada u
  - **Palabras Claves**
        Consola, SQL, PostgreSQL.
   
-
 ### 5. 🛠️ Gestión de Incidencias (Jira)
    - **Descripción:** Me encargo de reportar y gestionar incidencias en Jira, contribuyendo a un flujo de trabajo ágil, la resolución rápida de problemas y la mejora continua de la estabilidad y calidad del software.
    
