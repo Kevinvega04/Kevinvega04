@@ -24,27 +24,37 @@ Profesional Ingeniero Civil, preparado para dar el salto al sector tecnológico 
 ## 📁 ¿Qué encontrarás en este repositorio?
 Una lista de los proytectos en los que he trabajado y una descripción de cada uno de ellos:
 
-## 🚀 Proyecto #1. Urban Routes.
+## 🚀 Proyecto #1. Urban Routes. (Manual)
 
-### 1. 📝 Pruebas de Software (Manual)
-   - **Descripción:** Realizcé pruebas de software manuales para asegurar la calidad y el correcto funcionamiento de la aplicación web en diferentes navegadores, identificando errores plasmandolos en Jira y mejorando la experiencia del usuario final, estudiando la documentación de prueba para el diseño en Figma y documentando los resultados obtenidos clasificándolos según severidad.
+### 📝 Pruebas de Software.
+   - **Descripción:** Realizcé pruebas de software manuales para asegurar la calidad y el correcto funcionamiento de la aplicación web en diferentes navegadores con Devtools, identificando errores plasmandolos en Jira y mejorando la experiencia del usuario final, estudiando la documentación de prueba para el diseño en Figma y documentando los resultados obtenidos clasificándolos según severidad.
      
    - **Palabras Claves**
-      Pruebas de humo, Pruebas de regresión, Pruebas funcionales, Clases de equvalencia, Casos de Prueba, Informe de erroes.
+      Pruebas de humo, Devtools,Jira, Figma, pruebas UI, Pruebas de compatibilidad. Pruebas de regresión, Pruebas funcionales, Clases de equvalencia, Casos de Prueba, Informe de erroes.
      
-## 🚀 Proyecto #2. Urban.Grocers.
+## 🚀 Proyecto #2. Urban.Grocers. (Manual)
 
-### 2. 🔍 Validación de APIs (Postman)
-   - **Descripción:** Urban.Grocers, es un software creadopara la creación de kits para productos, asignandolos a una CardID del usuario, Analicé los requisitos para la nueva funcionalidad del back-end de Urban.Grocers, Diseñé pruebas en una lista de comprobación,Probé la API a través de Postman y realicé los informes de errores a Jira para la documentación final.
+### 🔍 Validación de APIs (Postman)
+   - **Descripción:** Reaclié pruebas del software con el fin de gestionar kits de compra y consultar la disponibilidad y el coste del servicio de entrega "Order and Go", asignandolos a una CardID del usuario, Analicé los requisitos para la nueva funcionalidad del back-end de Urban.Grocers, Diseñé pruebas en una lista de comprobación, Probé las APIs de apidoc a través de Postman y realicé los informes de errores en Jira para la documentación final.
 
    - **Palabras Claves**
-      Postman, Lista de comprobación, Pruebas funcionales back-end, Clases de equvalencia, APIs, Casos de Prueba, Informe de erroes, Jira.
+      Postman, Lista de comprobación, Pruebas funcionales back-end, Clases de equvalencia, APIdoc, Casos de Prueba, Informe de erroes, Jira.
 
-### 3. 📱 Testing en Aplicaciones Móviles
-   - **Descripción:** Llevo a cabo pruebas detalladas en aplicaciones móviles en entornos Android (Android Studio) para evaluar funcionalidad, rendimiento y diseño adaptativo, asegurando una experiencia de usuario óptima en dispositivos móviles.
+## 🚀 Proyecto #3. Urban.Lunch.(Manual)
 
-### 4. 🔄 Pruebas Funcionales y de Regresión
-   - **Descripción:** Ejecuto pruebas funcionales para verificar que cada parte del software cumple con los requisitos y realizo pruebas de regresión para asegurar que nuevas implementaciones no generen errores ni afecten la estabilidad del sistema.
+### 📱 Testing en Aplicaciones Móviles (Andorid Studio)
+   - **Descripción:** Llevé a cabo pruebas detalladas en aplicaciones móviles en entornos Android (Android Studio) para evaluar funcionalidad, rendimiento y diseño adaptativo, asegurando una experiencia de usuario óptima en dispositivos móviles. 
+
+ - **Palabras Claves**
+       Android Studio, Pruebas de integración, Pruebas funcionales, Pruebas extendidas, Pruebas del sistema.
+
+   🚀 Proyecto #4. Aplicación para solicitar taxis (Manual)
+
+### 4. 🔄 Pruebas de consola y base de datos (SQL y CMDer)
+   - **Descripción:** Reaclicé pruebas de consola y base de datos para analizar los registros del servidor y detectar inconsistencias en una base de datos de viajes de taxi. El objetivo era extraer información relevante, clasificar los registros según ciertos criterios y detectar posibles errores en el sistema.
+
+ - **Palabras Claves**
+       Consola, SQL, PostgreSQL.
   
 
 ### 5. 🛠️ Gestión de Incidencias (Jira)
