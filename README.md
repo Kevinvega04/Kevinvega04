@@ -48,7 +48,7 @@ Una lista de los proytectos en los que he trabajado y una descripción de cada u
  - **Palabras Claves**
        Android Studio, Pruebas de integración, Pruebas funcionales, Pruebas extendidas, Pruebas del sistema.
 
-   🚀 Proyecto #4. Aplicación para solicitar taxis (Manual)
+## 🚀 Proyecto #4. Aplicación para solicitar taxis (Manual)
 
 ### 4. 🔄 Pruebas de consola y base de datos (SQL y CMDer)
    - **Descripción:** Reaclicé pruebas de consola y base de datos para analizar los registros del servidor y detectar inconsistencias en una base de datos de viajes de taxi. El objetivo era extraer información relevante, clasificar los registros según ciertos criterios y detectar posibles errores en el sistema.
