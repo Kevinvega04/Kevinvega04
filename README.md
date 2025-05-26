@@ -22,7 +22,7 @@ Profesional Ingeniero Civil, preparado para dar el salto al sector tecnológico 
 ---
 
 ## 📁 ¿Qué encontrarás en este repositorio?
-Una lista de los proytectos en los que he trabajado y una descripción de cada uno de ellos:
+Una lista de los proyectos en los que he trabajado y una descripción de cada uno de ellos:
 
 ## 🚀 Proyecto #1. Urban Routes. (Manual)
 
@@ -50,37 +50,40 @@ Una lista de los proytectos en los que he trabajado y una descripción de cada u
 
 ## 🚀 Proyecto #4. Aplicación para solicitar taxis (Manual)
 
-### 4. 🔄 Pruebas de consola y base de datos (SQL y CMDer)
+### 🔄 Pruebas de consola y base de datos (SQL y CMDer)
    - **Descripción:** Reaclicé pruebas de consola y base de datos para analizar los registros del servidor y detectar inconsistencias en una base de datos de viajes de taxi. El objetivo era extraer información relevante, clasificar los registros según ciertos criterios y detectar posibles errores en el sistema.
 
  - **Palabras Claves**
        Consola, SQL, PostgreSQL.
+
+## 🚀 Proyecto #5. Urban Grocers (Automatizada)
+ - **Descripción:** Reaclicé la validación del correcto funcionamiento de la API para la creación de kits de productos. Se realizan pruebas para verificar que los kits se creen correctamente bajo diferentes condiciones y restricciones impuestas por la API. El proyecto está diseñado para probar el comportamiento de la API con diversas entradas en el campo name del kit y garantizar que se respeten las requisitos establecidos. Esto permite identificar posibles errores antes de implementar el sistema en un entorno de producción.
+
+ - **Palabras Claves**
+       Python, Pytest, API, PyCharm.
+
+  ## ⚙️ Heramientas adicionales
   
-### 5. 🛠️ Gestión de Incidencias (Jira)
+### 🛠️ Gestión de Incidencias (Jira)
    - **Descripción:** Me encargo de reportar y gestionar incidencias en Jira, contribuyendo a un flujo de trabajo ágil, la resolución rápida de problemas y la mejora continua de la estabilidad y calidad del software.
    
 
-### 6. 🤖 Automatización de Pruebas (Selenium, Python)
+### 🤖 Automatización de Pruebas (Selenium, Python)
    - **Descripción:** Desarrollo scripts de automatización de pruebas utilizando Selenium y Python, lo cual ayuda a mejorar la eficiencia en los ciclos de pruebas, permitiendo realizar validaciones de manera rápida y repetitiva.
    - **Ejemplo:** Scripts de Selenium en Python para tareas de automatización.
   
 
-### 7. 🎨 Testing de Interfaz de Usuario (UI)
+### 🎨 Testing de Interfaz de Usuario (UI)
    - **Descripción:** Realizo pruebas detalladas en la interfaz de usuario para asegurar que sea funcional, intuitiva y esté optimizada para distintos dispositivos y resoluciones, brindando una experiencia de usuario consistente.
    
 
-### 8. 📊 Validación de Datos (SQL)
+### 📊 Validación de Datos (SQL)
    - **Descripción:** Valido la integridad y consistencia de los datos en bases de datos mediante consultas SQL, asegurando que la información se almacene y procese de manera correcta y evitando errores e inconsistencias en el flujo de datos.
   
 
-### 9. 🌐 Pruebas de Compatibilidad y Responsividad
+### 🌐 Pruebas de Compatibilidad y Responsividad
    - **Descripción:** Verifico la compatibilidad y el diseño responsivo de aplicaciones web y móviles en múltiples plataformas, navegadores y dispositivos, garantizando que los usuarios disfruten de una experiencia de calidad en cualquier entorno.
    
-
-### 10. 💡 Consultoría en Mejora Continua de Calidad de Software
-   - **Descripción:** Ofrezco recomendaciones personalizadas para optimizar los procesos de testing y promover la mejora continua en la calidad del software, con el objetivo de hacer más eficiente el flujo de trabajo y garantizar un alto nivel de calidad en los productos.
-
-
 ## 💼 ¿Por qué contratarme?
 
 - Estoy comprometido con la calidad, el detalle y la mejora constante.
