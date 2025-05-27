@@ -75,26 +75,23 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
        Python, Pytest, API, PyCharm.
 
     - **📁 Link al proyecto**
+      https://github.com/Kevinvega04/qa-project-Urban-Grocers-app-es
 
-  ## ⚙️ Heramientas adicionales
+  ## ⚙️ Herramientas adicionales
   
 ### 🛠️ Gestión de Incidencias (Jira)
    - **Descripción:** Me encargo de reportar y gestionar incidencias en Jira, contribuyendo a un flujo de trabajo ágil, la resolución rápida de problemas y la mejora continua de la estabilidad y calidad del software.
    
-
 ### 🤖 Automatización de Pruebas (Selenium, Python)
    - **Descripción:** Desarrollo scripts de automatización de pruebas utilizando Selenium y Python, lo cual ayuda a mejorar la eficiencia en los ciclos de pruebas, permitiendo realizar validaciones de manera rápida y repetitiva.
    - **Ejemplo:** Scripts de Selenium en Python para tareas de automatización.
   
-
 ### 🎨 Testing de Interfaz de Usuario (UI)
    - **Descripción:** Realizo pruebas detalladas en la interfaz de usuario para asegurar que sea funcional, intuitiva y esté optimizada para distintos dispositivos y resoluciones, brindando una experiencia de usuario consistente.
    
-
 ### 📊 Validación de Datos (SQL)
    - **Descripción:** Valido la integridad y consistencia de los datos en bases de datos mediante consultas SQL, asegurando que la información se almacene y procese de manera correcta y evitando errores e inconsistencias en el flujo de datos.
   
-
 ### 🌐 Pruebas de Compatibilidad
    - **Descripción:** Verifico la compatibilidad y el diseño de aplicaciones web y móviles en múltiples plataformas, navegadores y dispositivos, garantizando que los usuarios disfruten de una experiencia de calidad en cualquier entorno.
    
@@ -109,7 +106,7 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
 
 ## 📫 ¡Conectemos!
 
-- 📧 qaenigneer.kevinvega@gmail.com 
+- 📧 qaengineer.kevinvega@gmail.com 
 - 💼 (https://www.linkedin.com/in/kevin-jes%C3%BAs-vega-d%C3%ADaz)
   
 ---
