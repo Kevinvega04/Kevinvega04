@@ -31,6 +31,9 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
      
    - **Palabras Claves**
       Pruebas de humo, Devtools,Jira, Figma, pruebas UI, Pruebas de compatibilidad. Pruebas de regresión, Pruebas funcionales, Clases de equvalencia, Casos de Prueba, Informe de erroes.
+
+  - **📁 Link al proyecto**
+      https://drive.google.com/drive/folders/1-tNmSIi87iyyw0KwuYQHaUwOG0d0wuAy?usp=drive_link 
      
 ## 🚀 Proyecto #2. Urban.Grocers. (Manual)
 
@@ -39,7 +42,10 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
 
    - **Palabras Claves**
       Postman, Lista de comprobación, Pruebas funcionales back-end, Clases de equvalencia, APIdoc, Casos de Prueba, Informe de erroes, Jira.
-
+     
+ - **📁 Link al proyecto**
+     https://drive.google.com/drive/folders/1dsea8YD9ATWrha4BO518Hjp-FxDKSAbK?usp=drive_link 
+ 
 ## 🚀 Proyecto #3. Urban.Lunch.(Manual)
 
 ### 📱 Testing en Aplicaciones Móviles (Andorid Studio)
@@ -47,6 +53,9 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
 
  - **Palabras Claves**
        Android Studio, Pruebas de integración, Pruebas funcionales, Pruebas extendidas, Pruebas del sistema.
+
+    - **📁 Link al proyecto**
+      https://drive.google.com/drive/folders/1rmxXrfcAXKDwCoIjaErfo7lXgZnH7nV-?usp=drive_link
 
 ## 🚀 Proyecto #4. Aplicación para solicitar taxis (Manual)
 
@@ -56,11 +65,16 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
  - **Palabras Claves**
        Consola, SQL, PostgreSQL.
 
+    - **📁 Link al proyecto**
+      https://drive.google.com/drive/folders/1bw-DXRg2ICoRxaMnLRgdHJ4DPGJswiS8?usp=drive_link
+
 ## 🚀 Proyecto #5. Urban Grocers (Automatizada)
  - **Descripción:** Reaclicé la validación del correcto funcionamiento de la API para la creación de kits de productos. Se realizan pruebas para verificar que los kits se creen correctamente bajo diferentes condiciones y restricciones impuestas por la API. El proyecto está diseñado para probar el comportamiento de la API con diversas entradas en el campo name del kit y garantizar que se respeten las requisitos establecidos. Esto permite identificar posibles errores antes de implementar el sistema en un entorno de producción.
 
  - **Palabras Claves**
        Python, Pytest, API, PyCharm.
+
+    - **📁 Link al proyecto**
 
   ## ⚙️ Heramientas adicionales
   
