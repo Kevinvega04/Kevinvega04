@@ -35,7 +35,7 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
    - **Descripción:** Realizcé pruebas de software manuales para asegurar la calidad y el correcto funcionamiento de la aplicación web en diferentes navegadores con Devtools, identificando errores plasmandolos en Jira y mejorando la experiencia del usuario final, estudiando la documentación de prueba para el diseño en Figma y documentando los resultados obtenidos clasificándolos según severidad.
      
    - **Palabras Claves**
-      Pruebas de humo, Devtools, Jira, Figma, pruebas UI, Pruebas de compatibilidad. Pruebas de regresión, Pruebas funcionales, Clases de equivalencia, Casos de Prueba, Informe de erroes.
+      Pruebas de humo, Devtools, Jira, Figma, pruebas UI, Pruebas de compatibilidad. Pruebas de regresión, Pruebas funcionales, Clases de equivalencia, Casos de Prueba, Informe de errores.
 
   - **📁 Link al proyecto**
       https://drive.google.com/drive/folders/1-tNmSIi87iyyw0KwuYQHaUwOG0d0wuAy?usp=drive_link 
@@ -46,7 +46,7 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
    - **Descripción:** Reaclié pruebas del software con el fin de gestionar kits de compra y consultar la disponibilidad y el coste del servicio de entrega "Order and Go", asignandolos a una CardID del usuario, Analicé los requisitos para la nueva funcionalidad del back-end de Urban.Grocers, Diseñé pruebas en una lista de comprobación, Probé las APIs de apidoc a través de Postman y realicé los informes de errores en Jira para la documentación final.
 
    - **Palabras Claves**
-      Postman, Lista de comprobación, Pruebas funcionales back-end, Clases de equvalencia, APIdoc, Casos de Prueba, Informe de erroes, Jira.
+      Postman, Lista de comprobación, Pruebas funcionales back-end, Clases de equivalencia, APIdoc, Casos de Prueba, Informe de erroes, Jira.
      
  - **📁 Link al proyecto**
      https://drive.google.com/drive/folders/1dsea8YD9ATWrha4BO518Hjp-FxDKSAbK?usp=drive_link 
