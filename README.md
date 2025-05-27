@@ -81,8 +81,8 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
    - **Descripción:** Valido la integridad y consistencia de los datos en bases de datos mediante consultas SQL, asegurando que la información se almacene y procese de manera correcta y evitando errores e inconsistencias en el flujo de datos.
   
 
-### 🌐 Pruebas de Compatibilidad y Responsividad
-   - **Descripción:** Verifico la compatibilidad y el diseño responsivo de aplicaciones web y móviles en múltiples plataformas, navegadores y dispositivos, garantizando que los usuarios disfruten de una experiencia de calidad en cualquier entorno.
+### 🌐 Pruebas de Compatibilidad
+   - **Descripción:** Verifico la compatibilidad y el diseño de aplicaciones web y móviles en múltiples plataformas, navegadores y dispositivos, garantizando que los usuarios disfruten de una experiencia de calidad en cualquier entorno.
    
 ## 💼 ¿Por qué contratarme?
 
