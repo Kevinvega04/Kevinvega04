@@ -35,7 +35,7 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
    - **Descripción:** Realizcé pruebas de software manuales para asegurar la calidad y el correcto funcionamiento de la aplicación web en diferentes navegadores con Devtools, identificando errores plasmandolos en Jira y mejorando la experiencia del usuario final, estudiando la documentación de prueba para el diseño en Figma y documentando los resultados obtenidos clasificándolos según severidad.
      
    - **Palabras Claves**
-      Pruebas de humo, Devtools,Jira, Figma, pruebas UI, Pruebas de compatibilidad. Pruebas de regresión, Pruebas funcionales, Clases de equvalencia, Casos de Prueba, Informe de erroes.
+      Pruebas de humo, Devtools, Jira, Figma, pruebas UI, Pruebas de compatibilidad. Pruebas de regresión, Pruebas funcionales, Clases de equivalencia, Casos de Prueba, Informe de erroes.
 
   - **📁 Link al proyecto**
       https://drive.google.com/drive/folders/1-tNmSIi87iyyw0KwuYQHaUwOG0d0wuAy?usp=drive_link 
