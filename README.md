@@ -82,6 +82,19 @@ Una lista de los proyectos en los que he trabajado y una descripción de cada un
     - **📁 Link al proyecto**
       https://github.com/Kevinvega04/qa-project-Urban-Grocers-app-es
 
+## 💻 Proyecto #6. Urban.Scooter. (Manual)
+
+ - **Descripción:** 📱 Realicé la validación de una página web para el alquiler de scooter (Uso para clientes) y una aplicación móvil con Android Studio (Uso de los repartidores a la hora de aceptar los pedidos de los clientes) mediante el funcionamiento de la APIs para la creación de las solicitudes de alquiler de scooter por los clientes. 
+Se realizan pruebas web para verificar que el alquiler se realice correctamente y los estados de los pedidos sean actualizados de manera correcta, Crear el usuario y contraseña de los repartidores para su login (Usando APIs a través de Postman) bajo diferentes condiciones y restricciones impuestas por la API, realizar consultas en la base de datos con el uso de consolas para verificar las interacciones entre la página web y la aplicación móvil.
+El proyecto está diseñado para probar el comportamiento de una página web para alquilar scooter y una aplicación móvil (Con el uso de Android Studio) para que los repartidores acepten los pedidos realizados a través de la página web y el uso de diversas APIs para garantizar que se respeten las requisitos establecidos. 
+Permitiendo identificar posibles errores antes de implementar el sistema en un entorno de producción.
+
+ - **Palabras Claves**
+      Página Web, Aplicación Móvil, API de Postman, Base de datos, Consolas, Android Studio, Pruebas de compatibilidad, Casos de prueba, Lista de comprobación, Verificación de Requisitos, Pruebas de móvil, Aseguramiento de la calidad y Pruebas manuales
+
+    - **📁 Link al proyecto**
+       https://drive.google.com/drive/folders/1Nf0YajXNSpiGdD6rnVy4ctOjBGQc9nxB?usp=sharing
+
   ## ⚙️🔧 Herramientas adicionales 
   
 ### 🛠️ Gestión de Incidencias (Jira)
