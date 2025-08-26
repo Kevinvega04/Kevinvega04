@@ -95,6 +95,19 @@ Permitiendo identificar posibles errores antes de implementar el sistema en un e
     - **📁 Link al proyecto**
        https://drive.google.com/drive/folders/1Nf0YajXNSpiGdD6rnVy4ctOjBGQc9nxB?usp=sharing
 
+## 💻 Proyecto #7. Nequi Web QA (Manual) 
+
+ - **Descripción:** 🔍 Realicé una lista de comprobación para validar la versión web de Nequi en Google Chrome 137.0.7151.122 (Build oficial) (64 bits). El objetivo fue asegurar la compatibilidad, la funcionalidad financiera y la experiencia del usuario en entornos de escritorio. Se aplicaron pruebas manuales para evaluar la navegación, autenticación, rendimiento, seguridad y auditoría, registrando los resultados en un archivo Excel con validación visual (estatus y enlaces a reportes).
+Documenté los hallazgos en Jira, enlazando los errores detectados, además de generar enlaces directos a los informes para seguimiento.
+
+ - **Palabras Claves**
+      Checklist QA, Google Chrome, Compatibilidad, Pruebas UI, Pruebas Funcionales, Pruebas de Autenticación, Rendimiento, Seguridad, Auditoría, Jira, Informe de errores, Excel con validación de datos.
+
+    - **📁 Link al proyecto**
+       https://drive.google.com/drive/folders/1Ih4GQpO6FBSbVH0moNq3AnsEhofVC-mU?usp=sharing
+
+     - **Nota:** Este proyecto fue realizado de manera independiente, con fines de dar a conocer mis habilidades y aumentar mi portafolio, sin relación ni encargo directo por parte de Nequi ni de ninguna entidad asociada.
+
   ## ⚙️🔧 Herramientas adicionales 
   
 ### 🛠️ Gestión de Incidencias (Jira)
